@@ -354,7 +354,7 @@ address {
 
 /********************************/
 
-@media(max-width:600px) {
+@media(max-width: 600px) {
     .content2 div,
     .content1 div,
     nav a,
